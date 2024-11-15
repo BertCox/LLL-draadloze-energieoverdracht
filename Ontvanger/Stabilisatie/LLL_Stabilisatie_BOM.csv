@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R3";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"220k";;;
+2;"TP4";"TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded";1;"TestPoint_Small";;;
+3;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"LED";;;
+4;"J1";"Connector_Female_LLL";1;"Conn_01x06_Socket";;;
+5;"L1";"L_6.3x6.3_H3";1;"10uH";;;
+6;"R4";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"47k";;;
+7;"C4,C5";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"22u";;;
+8;"C1,C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"100n";;;
+9;"U1";"SOT-23-6";1;"TPS54308";;;
+10;"R1,R5";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"56k";;;
+11;"R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"7.5k";;;
+12;"J2";"Connector_Male_LLL";1;"Conn_01x06_Pin";;;
+13;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"10u";;;
+14;"TP_GND";"TestPoint_Loop_D2.50mm_Drill1.0mm";1;"TestPoint_Small";;;

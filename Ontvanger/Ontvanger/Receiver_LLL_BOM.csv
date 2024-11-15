@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal";1;"Screw_Terminal_01x02";;;
+2;"J1";"Connector_Female_LLL";1;"Conn_01x06_Socket";;;
+3;"J3,J4";"conn_2x04_LLL";2;"Conn_02x04_Counter_Clockwise";;;
